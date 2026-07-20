@@ -2,8 +2,8 @@
 
 | Mission | AI Tool Used | Prompt Type | AI Helped With | AI Mistake | Manual Fix |
 |---|---|---|---|---|---|
-| Mission 1 | Claude Pro / Claude Code | Prompt Improvement | Generated password strength checker approaches | Did not initially handle all invalid inputs | Added validation for null, undefined, and non-string values |
-| Mission 2 | Claude Pro / Claude Code | Constraint-Based Generation | Created reusable form validator structure | Some validation edge cases required improvement | Added additional input validation and reviewed returned errors |
+| Mission 1 | Claude Code | Prompt Improvement | Generated password strength checker approaches | Did not initially handle all invalid inputs | Added validation for null, undefined, and non-string values |
+| Mission 2 | Claude Code | Constraint-Based Generation | Created reusable form validator structure | Some validation edge cases required improvement | Added additional input validation and reviewed returned errors |
 | Mission 3 | Claude Code | Debugging Prompt | Identified discount percentage calculation bug | Did not initially validate invalid discount ranges | Added manual validation for invalid discount values |
 | Mission 4 | Claude Code | Refactoring Prompt | Improved naming and code structure | Suggested changes that could affect original behavior | Applied only safe refactoring changes |
 | Mission 5 | Claude Code | Code Review Prompt | Found readability and validation issues | Some suggestions were unnecessary for project scope | Selected and applied relevant improvements |
