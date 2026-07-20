@@ -147,6 +147,26 @@ The policy covers:
 - Avoiding blind AI copying
 - Verifying AI-generated output
 - Honest disclosure of AI assistance
+## AI Verification Examples
+
+During the assignment, AI suggestions were reviewed and verified manually.
+
+Examples:
+
+### Mission 3 - Debugging
+- AI helped identify the discount calculation issue.
+- Manual testing revealed missing validation for invalid discount values.
+- The final implementation added proper input validation.
+
+### Mission 4 - Refactoring
+- AI improved naming and code structure.
+- Generated changes were reviewed to ensure original behavior was preserved.
+
+### Mission 5 - Code Review
+- AI identified readability and validation improvements.
+- Only relevant suggestions were applied after manual review.
+
+AI was used as a development assistant while final decisions remained with the developer.
 
 ## Learning Summary
 
