@@ -8,8 +8,21 @@ The goal of this assignment is to use AI as an engineering assistant while maint
 
 ## AI Tools Used
 
-- Cursor
-- Claude/Copilot (if used)
+## AI Tools Used
+
+- Claude Code (agentic AI assistant)
+- Claude Pro (initial prompt experimentation)
+
+AI tools were used for:
+
+- Prompt improvement
+- Code generation assistance
+- Debugging assistance
+- Refactoring suggestions
+- Code review
+- Documentation assistance
+
+AI output was never blindly copied. Every suggestion was manually reviewed, tested, corrected where required, and verified before being committed.
 
 ## Missions Completed
 
